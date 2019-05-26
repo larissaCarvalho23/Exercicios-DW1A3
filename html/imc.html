@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8"/>
+        <title>IMC</title>
+        <link rel="stylesheet" href="../css/imc.css">
+        <script type="text/javascript" src="../js/imc.js"></script>
+    </head>
+<body>
+    <form>
+        <p class="formPrincipal">Peso:
+            <input 
+                name="peso" 
+                id="peso" 
+                size="15" 
+                maxlength="4" 
+                placeholder="Peso (Kg)"
+                required/>
+        </p>
+        <p class="formPrincipal">Altura:
+            <input 
+                id="altura" 
+                name="altura" 
+                size="15" 
+                maxlength="4" 
+                placeholder="Altura (metros)"
+                required/>
+        </p>
+        <button type="submit" onclick="calcularIMC()" >Calcular</button>
+    </form>
+</body>
+</html>

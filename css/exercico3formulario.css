@@ -1,0 +1,63 @@
+.button{
+    text-align: 22px;
+    padding-top: 60px;
+    margin-left: 486px;
+    size: 70px;
+
+
+    
+}
+#input{
+    position:absolute;
+  left:95px;
+  margin-top:2px;
+  width:225px;
+  padding: 5px;
+  inline-size: 1000px;
+  padding-top: 2px;
+  margin: 6px;
+
+
+}
+#inputTel{
+    position:absolute;
+    left:95px;
+    margin-top:2px;
+    width:225px;
+    padding: 5px;
+    padding-top: 2px;
+    inline-size: 400px;
+    margin: 6px;
+}
+#inputEmail{
+    position:absolute;
+    left:95px;
+    margin-top:2px;
+    width:225px;
+    padding: 5px;
+    padding-top: 2px;
+    inline-size: 800px;
+    margin: 6px;
+}
+#inputmsg{
+ 
+    position:absolute;
+    left:95px;
+    margin-top:2px;
+    width:225px;
+    padding: 40px;
+    padding-top: 2px;
+    inline-size: 800px;
+    margin: 10px;
+}
+h3{
+    padding-top: 22px;
+    margin-top: 22px;
+    padding-bottom: 22px;
+    text-align: center;
+}
+label{
+
+    margin-right: 30px;
+   
+}

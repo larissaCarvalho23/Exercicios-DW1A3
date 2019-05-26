@@ -1,0 +1,11 @@
+.formPrincipal {
+    text-align: left;
+    padding: 5px;
+    width: 100px;
+    size: 15px;
+}
+
+input {
+    padding: 5px;
+    width: 100px;
+}
